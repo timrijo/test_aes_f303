@@ -1,0 +1,2 @@
+crypto_init.c:209:9:STM32_AES_CTR_Encrypt	328	static
+crypto_init.c:269:9:STM32_AES_CTR_Decrypt	328	static

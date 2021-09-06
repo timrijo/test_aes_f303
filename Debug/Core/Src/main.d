@@ -104,7 +104,8 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  D:/STMicroelectronics/workspace/test_aes_f303/STM32F3/Middlewares/ST/STM32_Cryptographic/Inc/ED25519/ed25519.h \
  D:/STMicroelectronics/workspace/test_aes_f303/STM32F3/Middlewares/ST/STM32_Cryptographic/Inc/C25519/c25519.h \
  D:/STMicroelectronics/workspace/test_aes_f303/STM32F3/Middlewares/ST/STM32_Cryptographic/Inc/CHACHA/chacha.h \
- D:/STMicroelectronics/workspace/test_aes_f303/STM32F3/Middlewares/ST/STM32_Cryptographic/Inc/CHACHA20-POLY1305/chacha20-poly1305.h
+ D:/STMicroelectronics/workspace/test_aes_f303/STM32F3/Middlewares/ST/STM32_Cryptographic/Inc/CHACHA20-POLY1305/chacha20-poly1305.h \
+ ../Core/Inc/crypto_init.h ../Core/Inc/main.h
 
 ../Core/Inc/main.h:
 
@@ -319,3 +320,7 @@ D:/STMicroelectronics/workspace/test_aes_f303/STM32F3/Middlewares/ST/STM32_Crypt
 D:/STMicroelectronics/workspace/test_aes_f303/STM32F3/Middlewares/ST/STM32_Cryptographic/Inc/CHACHA/chacha.h:
 
 D:/STMicroelectronics/workspace/test_aes_f303/STM32F3/Middlewares/ST/STM32_Cryptographic/Inc/CHACHA20-POLY1305/chacha20-poly1305.h:
+
+../Core/Inc/crypto_init.h:
+
+../Core/Inc/main.h:
